@@ -41,7 +41,6 @@ UI 库 | PC Web: [material-ui](https://github.com/callemall/material-ui)、[antd
 Website | http://facebook.github.io/react-native/ | https://weex.apache.org/cn/ | https://ionicframework.com/
 Github | https://github.com/facebook/react-native | https://github.com/alibaba/weex | https://github.com/ionic-team/ionic
 Github Star | [![GitHub stars](https://img.shields.io/github/stars/facebook/react-native.svg?style=social&label=Stars)](https://github.com/facebook/react-native) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/weex.svg?style=social&label=Stars)](https://github.com/alibaba/weex) | [![GitHub stars](https://img.shields.io/github/stars/ionic-team/ionic.svg?style=social&label=Stars)](https://github.com/ionic-team/ionic)
-Github Star | 53802 | 14984 | 31430
 Recommended language | JavaScript | JavaScript | [TypeScript](http://www.typescriptlang.org/)
 Version | [![npm](https://img.shields.io/npm/v/react-native.svg)](https://github.com/facebook/react-native) | [![npm](https://img.shields.io/npm/v/weex-toolkit.svg)](https://github.com/weexteam/weex-toolkit) | [![npm](https://img.shields.io/npm/v/ionic.svg)](https://github.com/ionic-team/ionic)
 Next Version | [![npm (tag)](https://img.shields.io/npm/v/react-native/next.svg)](https://github.com/facebook/react-native) | [![npm (tag)](https://img.shields.io/npm/v/weex-toolkit/next.svg)](https://github.com/weexteam/weex-toolkit) | [![npm (tag)](https://img.shields.io/npm/v/ionic/next.svg)](https://github.com/ionic-team/ionic)
