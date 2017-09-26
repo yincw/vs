@@ -1,20 +1,25 @@
 ## React vs Vue vs Angular
 
+Update Time: 2017-09-26
+
 基本信息 | React | Vue | Angular
 ---|---|---|---
 Website | https://facebook.github.io/react/ | https://vuejs.org/ | https://angular.io/
 Github | https://github.com/facebook/react | https://github.com/vuejs/vue | https://github.com/angular/angular
-Github Star | 76016 | 67600 | 27996
+Github Star | [![GitHub stars](https://img.shields.io/github/stars/facebook/react.svg?style=social&label=Stars)](https://github.com/facebook/react) | [![GitHub stars](https://img.shields.io/github/stars/vuejs/vue.svg?style=social&label=Stars)](https://github.com/vuejs/vue) | [![GitHub stars](https://img.shields.io/github/stars/angular/angular.svg?style=social&label=Stars)](https://github.com/angular/angular)
 Recommended language | JavaScript | JavaScript | [TypeScript](http://www.typescriptlang.org/)
-Version | v15.6.1 | v2.4.4 | v4.4.2
+Version | [![npm](https://img.shields.io/npm/v/react.svg)](https://github.com/facebook/react) | [![npm](https://img.shields.io/npm/v/vue.svg)](https://github.com/vuejs/vue) | [![npm](https://img.shields.io/npm/v/@angular/core.svg)](https://github.com/angular/angular)
+Next Version | [![npm (tag)](https://img.shields.io/npm/v/react/next.svg)](https://github.com/facebook/react) | [![npm (tag)](https://img.shields.io/npm/v/vue/next.svg)](https://github.com/vuejs/vue) | [![npm (tag)](https://img.shields.io/npm/v/@angular/core/next.svg)](https://github.com/angular/angular)
 Author | Facebook, Inc. | Yuxi (Evan) You | Google, Inc.
-License | [BSD licensed](https://github.com/facebook/react/blob/master/LICENSE) + [patent grant](https://github.com/facebook/react/blob/master/PATENTS)(专利许可) | [MIT](https://github.com/vuejs/vue/blob/dev/LICENSE) | [MIT](https://github.com/angular/angular/blob/master/LICENSE)
+License | [![npm](https://img.shields.io/npm/l/react.svg)](https://github.com/facebook/react) | [![npm](https://img.shields.io/npm/l/vue.svg)](https://github.com/vuejs/vue) | [![npm](https://img.shields.io/npm/l/@angular/core.svg)](https://github.com/angular/angular)
 Compatibility | IE 9+ | IE 9+ | IE 9+
 模块系统 | ES Modules + Webpack | ES Modules + Webpack | ES Modules + ngModel
 组件化 | ES6 Class Syntax | `Vue.component({})` | `@Component({})`
 模板引擎  | [JSX](https://facebook.github.io/react/docs/introducing-jsx.html)、[ES6](https://facebook.github.io/react/docs/react-without-es6.html) | [HTML](https://vuejs.org/v2/guide/syntax.html) | [HTML](https://angular.io/guide/template-syntax)
 数据绑定  | 单向绑定 | 单向、双向绑定 | 双向绑定
 
+> React 从 v15.6.2 开始，License 改成 MIT，
+> 之前为  BSD licensed + patent grant (专利许可)
 
 生态系统 | React | Vue | Angular
 ---|---|---|---
@@ -35,11 +40,13 @@ UI 库 | PC Web: [material-ui](https://github.com/callemall/material-ui)、[antd
 ---|---|---|---
 Website | http://facebook.github.io/react-native/ | https://weex.apache.org/cn/ | https://ionicframework.com/
 Github | https://github.com/facebook/react-native | https://github.com/alibaba/weex | https://github.com/ionic-team/ionic
-Github Star | 53609 | 14939 | 31368
+Github Star | [![GitHub stars](https://img.shields.io/github/stars/facebook/react-native.svg?style=social&label=Stars)](https://github.com/facebook/react-native) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/weex.svg?style=social&label=Stars)](https://github.com/alibaba/weex) | [![GitHub stars](https://img.shields.io/github/stars/ionic-team/ionic.svg?style=social&label=Stars)](https://github.com/ionic-team/ionic)
+Github Star | 53802 | 14984 | 31430
 Recommended language | JavaScript | JavaScript | [TypeScript](http://www.typescriptlang.org/)
-Version | v0.48 | v0.13.0 | v3.10.3
+Version | [![npm](https://img.shields.io/npm/v/react-native.svg)](https://github.com/facebook/react-native) | [![npm](https://img.shields.io/npm/v/weex-toolkit.svg)](https://github.com/weexteam/weex-toolkit) | [![npm](https://img.shields.io/npm/v/ionic.svg)](https://github.com/ionic-team/ionic)
+Next Version | [![npm (tag)](https://img.shields.io/npm/v/react-native/next.svg)](https://github.com/facebook/react-native) | [![npm (tag)](https://img.shields.io/npm/v/weex-toolkit/next.svg)](https://github.com/weexteam/weex-toolkit) | [![npm (tag)](https://img.shields.io/npm/v/ionic/next.svg)](https://github.com/ionic-team/ionic)
 Author | Facebook, Inc. | Alibaba, Inc. | Drifty Co.
-License | [BSD licensed](https://github.com/facebook/react-native/blob/master/LICENSE) + [patent grant](https://github.com/facebook/react-native/blob/master/PATENTS) | [Apache License 2.0](https://github.com/apache/incubator-weex/blob/master/LICENSE) | [MIT](https://github.com/ionic-team/ionic/blob/master/LICENSE)
+License | [![npm](https://img.shields.io/npm/l/react-native.svg)](https://github.com/facebook/react-native) | [![npm](https://img.shields.io/npm/l/weex.svg)](https://github.com/alibaba/weex) | [![npm](https://img.shields.io/npm/l/ionic.svg)](https://github.com/ionic-team/ionic)
 Render Engine | React | Vue | Angular
 Compatibility | - | - | -
 
@@ -48,9 +55,10 @@ Compatibility | - | - | -
 ---|---|---|---|---|---
 Website | https://preactjs.com/ | http://riotjs.com/ | https://infernojs.org/ | http://markojs.com/ | https://alibaba.github.io/rax/
 Github | https://github.com/developit/preact/ | https://github.com/riot/riot | https://github.com/infernojs/inferno | https://github.com/marko-js/marko | https://github.com/alibaba/rax
-Github Star | 15049 | 12363 | 11256 | 5201 | 3484
+Github Star | [![GitHub stars](https://img.shields.io/github/stars/developit/preact.svg?style=social&label=Stars)](https://github.com/developit/preact/) | [![GitHub stars](https://img.shields.io/github/stars/riot/riot.svg?style=social&label=Stars)](https://github.com/riot/riot) | [![GitHub stars](https://img.shields.io/github/stars/infernojs/inferno.svg?style=social&label=Stars)](https://github.com/infernojs/inferno) | [![GitHub stars](https://img.shields.io/github/stars/marko-js/marko.svg?style=social&label=Stars)](https://github.com/marko-js/marko) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/rax.svg?style=social&label=Stars)](https://github.com/alibaba/rax)
 Recommended language | JavaScript | JavaScript | JavaScript | JavaScript | JavaScript
-Version | v8.2.5 | v3.7.0 | v3.9.0 | v4.4.28 | v0.4.13
+Version | [![npm](https://img.shields.io/npm/v/preact.svg)](https://github.com/developit/preact/) | [![npm](https://img.shields.io/npm/v/riot.svg)](https://github.com/riot/riot) | [![npm](https://img.shields.io/npm/v/inferno.svg)](https://github.com/infernojs/inferno) | [![npm](https://img.shields.io/npm/v/marko.svg)](https://github.com/marko-js/marko) | [![npm](https://img.shields.io/npm/v/rax.svg)](https://github.com/alibaba/rax)
+Next Version | [![npm](https://img.shields.io/npm/v/preact/next.svg)](https://github.com/developit/preact/) | [![npm](https://img.shields.io/npm/v/riot/next.svg)](https://github.com/riot/riot) | [![npm](https://img.shields.io/npm/v/inferno/next.svg)](https://github.com/infernojs/inferno) | [![npm](https://img.shields.io/npm/v/marko/next.svg)](https://github.com/marko-js/marko) | [![npm](https://img.shields.io/npm/v/rax/next.svg)](https://github.com/alibaba/rax)
 Author | Jason Miller | Muut Inc. | Dominic Gannaway | eBay Inc | Alibaba Group Holding Limited.
-License | [MIT](https://github.com/developit/preact/blob/master/LICENSE) | [MIT](https://github.com/riot/riot/blob/master/LICENSE.txt) | [MIT](https://github.com/infernojs/inferno/blob/master/LICENSE.md) | [MIT](https://github.com/marko-js/marko/blob/master/LICENSE) | [BSD](https://github.com/alibaba/rax/blob/master/LICENSE)
+License | [![npm](https://img.shields.io/npm/l/preact.svg)](https://github.com/developit/preact/) | [![npm](https://img.shields.io/npm/l/riot.svg)](https://github.com/riot/riot) | [![npm](https://img.shields.io/npm/l/inferno.svg)](https://github.com/infernojs/inferno) | [![npm](https://img.shields.io/npm/l/marko.svg)](https://github.com/marko-js/marko) | [![npm](https://img.shields.io/npm/l/rax.svg)](https://github.com/alibaba/rax)
 Compatibility | IE 9+ | IE 10+ | IE 11+ | - | -
