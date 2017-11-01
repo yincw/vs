@@ -22,6 +22,14 @@
 [babel-register](https://babeljs.io/docs/usage/babel-register/) | - | 开发 | All | [![npm (tag)](https://img.shields.io/npm/v/babel-register/next.svg)](https://babeljs.io/docs/usage/babel-register/) | [![npm](https://img.shields.io/npm/v/babel-register.svg)](https://babeljs.io/docs/usage/babel-register/) | v6.26.0 | Webpack 配置文件支持 ES6 语法
 [cross-env](https://github.com/kentcdodds/cross-env) | - | 开发 | All | [![npm (tag)](https://img.shields.io/npm/v/cross-env/next.svg)](https://github.com/kentcdodds/cross-env) | [![npm](https://img.shields.io/npm/v/cross-env.svg)](https://github.com/kentcdodds/cross-env) | v5.0.5 | 跨平台设置脚本环境
 
+> Redux Framework
+
+名称 | 依赖 | 环境 | 适用端 | 下一个版本 | 当前版本 | VD 内置版本 | 说明
+---|---|---|---|---|---|---|---
+[dva](https://github.com/dvajs/dva) | - | 生产 | All | [![npm (tag)](https://img.shields.io/npm/v/dva/next.svg)](https://github.com/dvajs/dva) | [![npm](https://img.shields.io/npm/v/dva.svg)](https://github.com/dvajs/dva) | - | 基于 React 和 Redux 的轻量级 elm-style 的框架
+[kea](https://kea.js.org/) | - | 生产 | All | [![npm (tag)](https://img.shields.io/npm/v/kea/next.svg)](https://github.com/keajs/kea) | [![npm](https://img.shields.io/npm/v/kea.svg)](https://github.com/keajs/kea) | - | React 和 Redux 之间的高级抽象
+[mirrorx](https://github.com/mirrorjs/mirror) | - | 生产 | All | [![npm (tag)](https://img.shields.io/npm/v/mirrorx/next.svg)](https://github.com/mirrorjs/mirror) | [![npm](https://img.shields.io/npm/v/mirrorx.svg)](https://github.com/mirrorjs/mirror) | - | 一个简单和强大的 React 框架，使用最小的 API 和零样板
+
 > JavaScript
 
 名称 | 依赖 | 环境 | 适用端 | 下一个版本 | 当前版本 | VD 内置版本 | 说明
