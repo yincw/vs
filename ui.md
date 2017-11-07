@@ -13,7 +13,6 @@
 [amazeui](http://amazeui.org/) | [√](https://github.com/amazeui/amazeui-react) | - | - | **√** | - | [![npm](https://img.shields.io/npm/v/amazeui.svg)](https://github.com/amazeui/amazeui) | - | √ | - | - | [![GitHub stars](https://img.shields.io/github/stars/amazeui/amazeui.svg?style=social&label=Stars)](https://github.com/amazeui/amazeui) | × | AllMobilize Inc.
 [iview](https://www.iviewui.com/) | - | **√** | - | - | - | [![npm](https://img.shields.io/npm/v/iview.svg)](https://github.com/iview/iview) | - | - | √ | - | [![GitHub stars](https://img.shields.io/github/stars/iview/iview.svg?style=social&label=Stars)](https://github.com/iview/iview) | √ | iView
 [jQuery UI](https://jqueryui.com/) | - | - | - | **√** | - | [![npm](https://img.shields.io/npm/v/jquery-ui.svg)](https://github.com/jquery/jquery-ui) | √ | - | - | - | [![GitHub stars](https://img.shields.io/github/stars/jquery/jquery-ui.svg?style=social&label=Stars)](https://github.com/jquery/jquery-ui) | × | jQuery Foundation
-[jQuery UI](https://jqueryui.com/) | - | - | - | **√** | - | [![npm](https://img.shields.io/npm/v/jquery-ui.svg)](https://github.com/jquery/jquery-ui) | √ | - | - | - | [![GitHub stars](https://img.shields.io/github/stars/jquery/jquery-ui.svg?style=social&label=Stars)](https://github.com/jquery/jquery-ui) | × | jQuery Foundation
 
 ## PC Native 端
 

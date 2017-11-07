@@ -5,7 +5,6 @@ Update Time: 2017-09-26
 基本信息 | React | Vue | Angular
 ---|---|---|---
 Website | https://facebook.github.io/react/ | https://vuejs.org/ | https://angular.io/
-Github | https://github.com/facebook/react | https://github.com/vuejs/vue | https://github.com/angular/angular
 Github Star | [![GitHub stars](https://img.shields.io/github/stars/facebook/react.svg?style=social&label=Stars)](https://github.com/facebook/react) | [![GitHub stars](https://img.shields.io/github/stars/vuejs/vue.svg?style=social&label=Stars)](https://github.com/vuejs/vue) | [![GitHub stars](https://img.shields.io/github/stars/angular/angular.svg?style=social&label=Stars)](https://github.com/angular/angular)
 Recommended language | JavaScript | JavaScript | [TypeScript](http://www.typescriptlang.org/)
 Version | [![npm](https://img.shields.io/npm/v/react.svg)](https://github.com/facebook/react) | [![npm](https://img.shields.io/npm/v/vue.svg)](https://github.com/vuejs/vue) | [![npm](https://img.shields.io/npm/v/@angular/core.svg)](https://github.com/angular/angular)
