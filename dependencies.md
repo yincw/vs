@@ -37,6 +37,7 @@
 [dva-loading](https://github.com/dvajs/dva/tree/master/packages/dva-loading) | - | 生产 | PCWeb、PCNative、MobileWeb、MobileNative | [![npm (tag)](https://img.shields.io/npm/v/dva-loading/next.svg)](https://github.com/dvajs/dva/tree/master/packages/dva-loading) | [![npm](https://img.shields.io/npm/v/dva-loading.svg)](https://github.com/dvajs/dva/tree/master/packages/dva-loading) | v1.0.4 | Dva 的自动加载插件
 [dva-model-extend](https://github.com/dvajs/dva-model-extend) | - | 生产 | PCWeb、PCNative、MobileWeb、MobileNative | [![npm (tag)](https://img.shields.io/npm/v/dva-model-extend/next.svg)](https://github.com/dvajs/dva-model-extend) | [![npm](https://img.shields.io/npm/v/dva-model-extend.svg)](https://github.com/dvajs/dva-model-extend) | 0.1.2 | 扩展 dva 模型的实用方法
 [babel-plugin-dva-hmr](https://github.com/dvajs/babel-plugin-dva-hmr) | [redbox-react](https://github.com/commissure/redbox-react) | 开发 | PCWeb、PCNative、MobileWeb、MobileNative | [![npm (tag)](https://img.shields.io/npm/v/babel-plugin-dva-hmr/next.svg)](https://github.com/dvajs/babel-plugin-dva-hmr) | [![npm](https://img.shields.io/npm/v/babel-plugin-dva-hmr.svg)](https://github.com/dvajs/babel-plugin-dva-hmr) | v0.4.0 | Dva 的 HMR Babel 插件
+[babel-plugin-transform-runtime](http://babeljs.io/docs/plugins/transform-runtime/) | - | 开发 | PCWeb、PCNative、MobileWeb、MobileNative | [![npm (tag)](https://img.shields.io/npm/v/babel-plugin-transform-runtime/next.svg)](http://babeljs.io/docs/plugins/transform-runtime/) | [![npm](https://img.shields.io/npm/v/babel-plugin-transform-runtime.svg)](http://babeljs.io/docs/plugins/transform-runtime/) | v6.23.0 | 转换运行时
 [babel-plugin-add-module-exports](https://github.com/59naga/babel-plugin-add-module-exports) | - | 开发 | PCWeb、PCNative、MobileWeb、MobileNative | [![npm (tag)](https://img.shields.io/npm/v/babel-plugin-add-module-exports/next.svg)](https://github.com/59naga/babel-plugin-add-module-exports) | [![npm](https://img.shields.io/npm/v/babel-plugin-add-module-exports.svg)](https://github.com/59naga/babel-plugin-add-module-exports) | v0.2.1 | Follow the babel@5 behavior for babel@6
 
 - dva@2.1.0
@@ -59,6 +60,7 @@
 - dva-model-extend@0.1.2
 - babel-plugin-dva-hmr@0.4.0
   - redbox-react@1.5.0
+- babel-plugin-transform-runtime@6.23.0
 - babel-plugin-add-module-exports@0.2.1
 
 > JavaScript
